@@ -1,0 +1,2 @@
+#Instructions
+Remember that the main point is implementation of the Sequence class template. The template of shuffle function is an addition which should show that your Sequence is flexible enough and allows for implementation of such a function.
