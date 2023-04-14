@@ -1,0 +1,2 @@
+Instructions
+As previously, the main point is the implementation of the Ring container template. This time definition of an iterator is a must. Since the Ring is based on the doubly-lined list the iterator should be bidirectional (with ++ and -- operators). Please, use the iterator in your Ring implementation. Ideally, operations on pointers should be closed in the iterator class.
